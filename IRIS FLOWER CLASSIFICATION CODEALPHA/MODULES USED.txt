@@ -1,0 +1,20 @@
+numpy:
+This library provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+
+pandas: 
+Pandas is a library used for data manipulation and analysis. It offers data structures and operations for manipulating numerical tables and time series.
+
+sklearn.datasets: 
+This submodule of scikit-learn provides utility functions to load datasets, including the Iris dataset that we'll be working with.
+
+sklearn.model_selection: 
+This submodule provides functions to split datasets into train and test sets, among other utilities for cross-validation.
+
+sklearn.preprocessing: 
+This submodule provides functions for standardizing, scaling, and normalizing input data.
+
+sklearn.neighbors: 
+This submodule implements the k-nearest neighbors algorithm, which is a simple and effective algorithm used for classification and regression tasks.
+
+sklearn.metrics: 
+This submodule provides functions to measure the performance of a machine learning model, including accuracy and classification reports.
